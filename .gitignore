@@ -1,0 +1,11 @@
+build
+install
+
+tool/transformed.txt
+
+# vscode
+.vscode
+
+# eclipse
+.classpath
+.project
